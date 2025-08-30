@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Nike Futura ND";
+    src: url("fonts/Nike\ Futura\ ND.ttf");
+}
+
+@font-face {
+    font-family: "Helvetica Now Text";
+    src: url("fonts/Helvetica\ Now\ Text.ttf");
+}
+
+.nike-font {
+    font-family: "Nike Futura ND", sans-serif;
+}
+
+.helvetica-font {
+    font-family: "Helvetica Now Text", sans-serif;
+}
+
+body {
+    font-family: "Helvetica Now Text", sans-serif;
+}
+
+.horizontal-scroll {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    height: 100vh;
+    width: 100vw;
+}
+
+.horizontal-scroll > div {
+    flex: 0 0 100vw;
+    scroll-snap-align: start;
+    background: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}

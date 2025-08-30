@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Air Max DN",
+        "image": "air-max-dn-shoes-iI84yFtm.avif",
+        "price": 4699000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 2,
+        "name": "Air Max TL 2.5",
+        "image": "air-max-tl-2-5-shoes-7PdW4h.avif",
+        "price": 5279000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 3,
+        "name": "Nike Gato",
+        "image": "gato-shoes-2gmOIRKa.avif",
+        "price": 3239000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 4,
+        "name": "Nike Gato",
+        "image": "gato-shoes-78LFo4oO.avif",
+        "price": 3239000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 5,
+        "name": "Shox R4 SE",
+        "image": "shox-r4-se-shoes-YqYYva9n.avif",
+        "price": 4699000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 6,
+        "name": "Streakfly 2 Road Racing",
+        "image": "streakfly-2-road-racing-shoes-gL3BZf.avif",
+        "price": 4699000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 7,
+        "name": "Terra Manta",
+        "image": "terra-manta-shoes-fmnNMv.avif",
+        "price": 4699000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 8,
+        "name": "V5 RNR",
+        "image": "v5-rnr-shoes-2lPtdD.avif",
+        "price": 4699000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 9,
+        "name": "Vaporfly 4 Road Racing",
+        "image": "vaporfly-4-road-racing-shoes-PTwDtp.avif",
+        "price": 4699000,
+        "description": "Men's Shoes"
+    },
+    {
+        "id": 10,
+        "name": "Vomero 18 Road Running",
+        "image": "vomero-18-road-running-shoes-r8NUvicZ.avif",
+        "price": 4699000,
+        "description": "Men's Shoes"
+    }
+]

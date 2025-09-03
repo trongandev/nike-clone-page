@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     arrivals.forEach((item) => {
         arrivalsContainer.innerHTML += ` <a href="./html/detail.html" class="w-[594px] swiper-slide  group">
     <div class="w-full h-[594px] overflow-hidden mb-3">
-    <img src="../images/arrivals/${item.image}" alt="" class=" w-full h-full group-hover:scale-110 transition-transform duration-300 " />
+    <img src="https://raw.githubusercontent.com/trongandev/nike-clone-page/refs/heads/main/${item.image}" alt="" class=" w-full h-full group-hover:scale-110 transition-transform duration-300 " />
     </div>
             <h1 class="font-bold">${item.name}</h1>
             <p class="text-gray-500">${item.description}</p>
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     const classicsContainer = document.querySelector(".classic-container")
     classics.forEach((item) => {
         classicsContainer.innerHTML += `  <div class="w-[300px] swiper-slide">
-                        <img src="../images/classics/${item.image}" alt="" class="w-full" />
+                        <img src="https://raw.githubusercontent.com/trongandev/nike-clone-page/refs/heads/main/images/classics/${item.image}" alt="" class="w-full" />
                     </div>`
     })
 

@@ -1,0 +1,52 @@
+export const dataClassics = [
+    {
+        id: 1,
+        name: "Air Force 1",
+        image: "air-force1.jpg",
+    },
+    {
+        id: 2,
+        name: "Air Jordan 1",
+        image: "air-jodan1.jpg",
+    },
+    {
+        id: 3,
+        name: "Air Max",
+        image: "air-max.jpg",
+    },
+    {
+        id: 4,
+        name: "C1TY",
+        image: "c1ty.jpg",
+    },
+    {
+        id: 5,
+        name: "Dunk",
+        image: "dunk.jpg",
+    },
+    {
+        id: 6,
+        name: "Metcon 10",
+        image: "metcon10.jpg",
+    },
+    {
+        id: 7,
+        name: "Nike Gato",
+        image: "nike-gato.jpg",
+    },
+    {
+        id: 8,
+        name: "Pegasus 41",
+        image: "pegasus41.jpg",
+    },
+    {
+        id: 9,
+        name: "Retro Running",
+        image: "retro-running.jpg",
+    },
+    {
+        id: 10,
+        name: "Vaporfly",
+        image: "vaporfly.jpg",
+    },
+]
